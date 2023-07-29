@@ -1,0 +1,13 @@
+{
+  "run": false,
+  "message_one": "null",
+  "message_two": "null",
+  "message_three": "null",
+  "message_four": "null",
+  "message_five": "null",
+  "message_six": "null",
+  "failsafe": true,
+  "delay": 0,
+  "timeout": 30,
+  "console_logs": 1
+}
